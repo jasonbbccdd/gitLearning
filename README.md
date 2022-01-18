@@ -1,2 +1,2 @@
 # gitLearning
-purpose to learn the gitHub ~~~
+- purpose to learn the gitHub ~~~
